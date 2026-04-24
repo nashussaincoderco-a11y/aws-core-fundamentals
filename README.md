@@ -75,4 +75,79 @@
 
 
 
+<img width="1861" height="799" alt="image" src="https://github.com/user-attachments/assets/ad0a954c-a103-47fb-8f0d-58add5a5b26e" />
+
+
+
+
+
+
+
+
+<img width="1571" height="763" alt="image" src="https://github.com/user-attachments/assets/e8c47cc4-f02a-4710-b0a3-dbfee1354e71" />
+
+
+
+
+
+
+
+
+<img width="1822" height="726" alt="image" src="https://github.com/user-attachments/assets/a4eaf103-6cd7-4b30-bd59-eaf8c14adb60" />
+
+
+
+
+
+
+
+
+
+<img width="1562" height="617" alt="image" src="https://github.com/user-attachments/assets/94868327-06ec-4885-91c7-cea28d29d6e9" />
+
+
+
+
+
+
+
+
+
+<img width="1830" height="824" alt="image" src="https://github.com/user-attachments/assets/c46787e0-968c-4cb9-9f2c-3efdaffa6cb3" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Root user: 
+
+
+
+<img width="446" height="746" alt="image" src="https://github.com/user-attachments/assets/27e56abe-91f8-47c0-a44c-82316bd381a3" />
+
+
+
+
+#### IAM User:
+
+
+
+
+
+<img width="419" height="725" alt="image" src="https://github.com/user-attachments/assets/437db59d-5368-4f74-97db-913ce205a6c4" />
+
+
+
+
+
+
+
 
