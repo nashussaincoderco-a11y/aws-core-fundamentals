@@ -152,3 +152,136 @@
 
 
 I have used a private browser to be able to access my root and IAM account at the same time. 
+
+
+
+
+
+
+## AWS CLI Access key demo
+
+
+
+
+### Verifying first if AWS CLI is installed on my PC
+
+
+
+<img width="878" height="70" alt="image" src="https://github.com/user-attachments/assets/a7639a35-e063-4a2e-ae89-1e7a52f48608" />
+
+
+
+### Creating an Access Key
+
+
+
+
+I selected security credentials from the drop down menu. 
+
+<img width="576" height="742" alt="image" src="https://github.com/user-attachments/assets/a0e05743-f925-4fb5-8b47-07c62a632c54" />
+
+
+
+
+
+
+
+
+<img width="1516" height="266" alt="image" src="https://github.com/user-attachments/assets/58d24bad-a865-4e31-b51f-52885f763ded" />
+
+
+
+
+
+
+
+
+
+
+<img width="1535" height="443" alt="image" src="https://github.com/user-attachments/assets/f79c38d4-9f7c-44ba-845e-e10e4e3ac044" />
+
+
+
+
+
+
+
+
+
+
+<img width="1569" height="657" alt="image" src="https://github.com/user-attachments/assets/965bf5ac-282e-4652-b8c1-f671ab391185" />
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1756" height="564" alt="image" src="https://github.com/user-attachments/assets/d19fcf0c-7f89-43b7-8291-5cd271f922a7" />
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="418" height="102" alt="image" src="https://github.com/user-attachments/assets/ae156d2d-3c34-4d23-bc23-5d3cab489325" />
+
+
+
+
+
+
+
+
+
+
+<img width="572" height="32" alt="image" src="https://github.com/user-attachments/assets/834c6bef-4660-4567-9326-0435d887c1f6" />
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="470" height="31" alt="image" src="https://github.com/user-attachments/assets/5e0c6162-d32b-4d6b-93b4-ca8198f23928" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
