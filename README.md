@@ -151,4 +151,4 @@
 
 
 
-I have used a private to be able to access my root and IAM account at the same time. 
+I have used a private browser to be able to access my root and IAM account at the same time. 
