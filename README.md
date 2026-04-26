@@ -277,6 +277,165 @@ I selected security credentials from the drop down menu.
 
 
 
+## Creating a policy 
+
+
+
+
+
+
+<img width="1863" height="674" alt="image" src="https://github.com/user-attachments/assets/c020de41-88e3-429a-ad1a-ff4f9071da3a" />
+
+
+
+
+
+
+
+
+
+
+<img width="1556" height="612" alt="image" src="https://github.com/user-attachments/assets/298b693c-e731-4275-b84a-cc44ce39d334" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1349" height="718" alt="image" src="https://github.com/user-attachments/assets/28aa959a-e2a0-4b0f-9f68-3c79578d5e5d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Test Computer policy in place
+<img width="1207" height="335" alt="image" src="https://github.com/user-attachments/assets/a254f588-8abc-4daf-b7d4-0bcc7a64263a" />
+
+
+
+
+
+
+
+
+
+
+
+## Creating a role
+
+
+
+
+
+
+
+<img width="1870" height="859" alt="image" src="https://github.com/user-attachments/assets/e698d504-b421-4628-9bfe-e6efa9ef8522" />
+
+
+
+
+
+
+
+
+
+
+
+<img width="1862" height="739" alt="image" src="https://github.com/user-attachments/assets/0cf6ce95-5062-4421-bc2c-8c9c7ca6efb8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1860" height="817" alt="image" src="https://github.com/user-attachments/assets/deeb7ce5-cfe6-4c22-b9ab-9a89c06bf98f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1573" height="672" alt="image" src="https://github.com/user-attachments/assets/87dc16fe-9401-4e3c-8add-9c0f996cb474" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1582" height="702" alt="image" src="https://github.com/user-attachments/assets/849e77ef-9790-4182-b268-d2ceec38ae55" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
