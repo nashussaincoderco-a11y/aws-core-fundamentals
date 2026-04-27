@@ -425,6 +425,83 @@ Test Computer policy in place
 
 
 
+## EC2 User data demo 
+
+
+
+
+
+
+<img width="1682" height="850" alt="image" src="https://github.com/user-attachments/assets/1fa6dfa9-8230-46d3-bfa8-1a8e05f0a740" />
+
+
+
+
+
+
+
+
+
+<img width="1737" height="852" alt="image" src="https://github.com/user-attachments/assets/36de6648-e437-4581-8244-ce9780ff6699" />
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="725" height="287" alt="image" src="https://github.com/user-attachments/assets/accfa4a6-198e-4d93-8445-795d133af1d8" />
+
+
+
+
+
+
+
+
+
+<img width="1814" height="715" alt="image" src="https://github.com/user-attachments/assets/8945aaef-c244-4a1f-81fa-1380ef769e28" />
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1310" height="402" alt="image" src="https://github.com/user-attachments/assets/5a42648e-e95d-4cd5-bb68-0e56b6a3b96a" />
+
+
+
+
+
+
+
+
+<img width="1849" height="362" alt="image" src="https://github.com/user-attachments/assets/e0a2141a-22e1-4616-8f2e-d709860e030d" />
+
+
+
+
+Delete the instance otherwise you will get charged. Delete the key pair too. 
+
+
+
+
+
+
+
+
+<img width="1868" height="439" alt="image" src="https://github.com/user-attachments/assets/f04caa9e-80e6-4a22-b4ac-470481e057ff" />
 
 
 
@@ -438,9 +515,5 @@ Test Computer policy in place
 
 
 
-
-
-
-
-
+<img width="654" height="109" alt="image" src="https://github.com/user-attachments/assets/92de29be-e87a-4c22-b38a-437d420bea93" />
 
