@@ -517,3 +517,99 @@ Delete the instance otherwise you will get charged. Delete the key pair too.
 
 <img width="654" height="109" alt="image" src="https://github.com/user-attachments/assets/92de29be-e87a-4c22-b38a-437d420bea93" />
 
+
+
+
+
+
+
+
+
+
+
+
+
+## Security Groups Demo 
+
+
+
+In the screenshot below, can see we've got a security group attached. 
+
+
+
+
+
+
+<img width="1839" height="886" alt="image" src="https://github.com/user-attachments/assets/233a13ae-c1b5-4a71-a8eb-e1c3bb8ca5ee" />
+
+
+
+
+
+
+
+
+
+<img width="1860" height="892" alt="image" src="https://github.com/user-attachments/assets/6ac4f192-cafb-42f4-8a5b-1d635755724b" />
+
+
+
+
+
+
+
+
+
+
+<img width="1617" height="802" alt="image" src="https://github.com/user-attachments/assets/37c85313-f87b-4567-b665-b258d9054665" />
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1864" height="655" alt="image" src="https://github.com/user-attachments/assets/d8f8d273-6a31-42b8-b921-78c55b4aee2b" />
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1632" height="632" alt="image" src="https://github.com/user-attachments/assets/7ad7f02f-91db-4361-b71c-a10632ef2815" />
+
+
+
+
+
+
+
+
+
+
+
+
+### Security Groups Demo 2 
+
+
+
+You can see I have option to restrict the instance to my IP which is best practice for security groups. 
+
+
+
+<img width="1860" height="887" alt="image" src="https://github.com/user-attachments/assets/ba8e510e-a8ed-4d65-a0ac-94c4fa07d260" />
+
+
+
+
