@@ -748,6 +748,90 @@ You can see I have option to restrict the instance to my IP which is best practi
 
 
 
+## Default VPC Walkthrough: 
+
+
+
+Can see that a default VPC has already been created. Can see it has an IPV4 CIDR too.
+
+
+
+
+
+
+
+<img width="1873" height="600" alt="image" src="https://github.com/user-attachments/assets/a8f61747-216c-44ed-b95c-b66b651744c9" />
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1617" height="317" alt="image" src="https://github.com/user-attachments/assets/91e0acfd-16fb-4564-abf5-747354ca0da5" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+### VPC Subnets 
+
+
+
+Can see that some subnets have  already been created by default. 
+
+
+
+
+<img width="1873" height="788" alt="image" src="https://github.com/user-attachments/assets/68bb3a10-8163-4633-a173-b0cc5b68823b" />
+
+
+
+
+
+
+
+
+
+
+
+<img width="1614" height="316" alt="image" src="https://github.com/user-attachments/assets/e72488df-82e1-4f0c-8f57-a8bf1baa6e5b" />
+
+
+
+
+
+
+
+
+
+
+
+
+Can see that the VPC is spread across different AZ's to ensure high availability. 
+
+
+
+
+
+
+
+
+<img width="1623" height="326" alt="image" src="https://github.com/user-attachments/assets/cbe6d1e9-ff7b-4a12-b606-5d5db6c52a2d" />
+
 
 
 
